@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c72e2f0174333ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,14 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0148dffb66725c6",
+  "active": "c72e2f0174333ae2",
   "lastOpenFiles": [
+    "modules/Names.md",
+    "README.md",
+    "Untitled.md",
+    "modules",
     "assets/ProductivityVsTime.jpg",
     "assets/ProductivityVsTime.jpg.crdownload",
     "assets/ProductivityVsTime.png",
     "assets/clean-coders.jpg",
     "assets/clean-coders.jpg.crdownload",
-    "README.md",
     "assets"
   ]
 }
