@@ -13,7 +13,11 @@ Often a times, people confuse productivity (shiping features fast) with clean co
 So, maybe initially, you start shipping features with lighting quick speed. But in the longer run due to the code full of smells, it becomes hard to implement new features. 
  
 And it becomes icing on the cake, when your manager starts questioning you why you are taking more time as the project starts to become bigger.
- 
+
+This is just the tip of the iceberg. The problem with bad code continue and some times it gets worst to the extent that make companies to go bankrupt due to the cycle mentioned in the below mentioned image.
+
+
+ ![Problem-with-rotten-code image](/assets/problem-with-rotten-code.jpeg)
 ## What makes code a bad code ?
 
 1. Rigidity: Tendency of a system to resist change. A system is rigid if it requires us to make many change at multiple positions in order to fix a small bug. 
