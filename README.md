@@ -1,6 +1,6 @@
 # Clean Code by Robert C. Martin
 
-![[clean-coders.jpg]]
+![clean-code cover image](/assets/clean-coders.jpg)
 The purpose of this repository is to share the best practices shared by Robert C. Martin in his clean coders course. When i started reading about the techniques shared by him, it arouse by interest and started to dive deeper by taking his course. I'll be sharing the key-take aways from his course on this repository.
 
 ## Why Clean Code is necessary ?
