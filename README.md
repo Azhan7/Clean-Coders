@@ -1,12 +1,14 @@
 # Clean Code by Robert C. Martin
 
-![[clean-coders.jpg]]
+![clean-code cover image](/assets/clean-coders.jpg)
 The purpose of this repository is to share the best practices shared by Robert C. Martin in his clean coders course. When i started reading about the techniques shared by him, it arouse by interest and started to dive deeper by taking his course. I'll be sharing the key-take aways from his course on this repository.
 
 ## Why Clean Code is necessary ?
  
 Often a times, people confuse productivity (shiping features fast) with clean code. People comprehend that if they focus on clean code, it would take greater amount of time. But guess what in a longer run, it becomes counter productive.
-![[ProductivityVsTime.jpg]]
+
+![Productivity vs Time image](/assets/ProductivityVsTime.jpg)
+
 
 So, maybe initially, you start shipping features with lighting quick speed. But in the longer run due to the code full of smells, it becomes hard to implement new features. 
  
@@ -29,6 +31,11 @@ The only choice we have is to either rush in the short term or maintain a health
 
 
 
+## What is clean code ?
+
+According to **Michael Feathers**, author of **Working Effectively with Legacy Code**, 
+
+> "Clean code always looks like it was written by someone who care"
  
 
 
